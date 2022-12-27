@@ -3,8 +3,9 @@ Simple program to download specified number of gifs to your specified folder.
 
 ## To Setup and Run
 - Download as git clone or zip.
-- Install the requirements with `pip install -r requirements`
-- python `project.py`
+- Install the requirements with `pip install -r requirements.txt`
+- Run by using `python tenor-gif-downloader` from your command line.
+- Level should be the project root.
 
 ## To Contribute
 - Fork the project
