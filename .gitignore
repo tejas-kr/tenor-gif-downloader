@@ -1,2 +1,3 @@
 venv/
 dump_gifs/
+__pycache__/
