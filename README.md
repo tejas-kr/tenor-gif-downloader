@@ -9,6 +9,6 @@ Simple program to download specified number of gifs to your specified folder.
 
 ## To Contribute
 - Fork the project
-- Source code is inside 'src' folder
+- Source code is inside 'tenor-gif-downloader' folder
 - Create a virtual environment but don't push it. [add to .gitignore]
 - Raise Pull Request
